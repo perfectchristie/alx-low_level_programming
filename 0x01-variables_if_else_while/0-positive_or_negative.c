@@ -23,6 +23,6 @@ n = rand() - RAND_MAX / 2;
 	{
 		printf("% is positive\n", n);
 	}
-	Return 0;
-}
+Return 0;
+	}
 

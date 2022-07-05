@@ -22,7 +22,7 @@ else if (n < 0)
 }
 else if (n > 0)
 {
-	printf("% is positive\n", n);
+	printf("i% is positive\n", n);
 }
 return (0);
 }

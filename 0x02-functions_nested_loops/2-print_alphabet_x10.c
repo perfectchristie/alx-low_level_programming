@@ -3,7 +3,8 @@
  * print_alphabet_x10 -> prints the lowercase alphabets
  */
 
-void print_alphabet_x10(void);
+v0oid print_alphabet_x10(void);
+int(a - z)
 {
 	int j;
 	int x;

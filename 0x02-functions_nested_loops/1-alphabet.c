@@ -6,7 +6,7 @@
 
 void print_alphabet(void)
 
-{
+_attribute_{
 	int j;
 
 	for (j = 'a'; j < = 'z'; j++)
@@ -15,3 +15,4 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
+{

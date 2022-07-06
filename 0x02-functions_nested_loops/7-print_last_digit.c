@@ -6,6 +6,7 @@
  * Return: the last digit
  */
 int print_last_digit(int n)
+(n = 98, 0, -1024)
 {
 	int x;
 	print_last_digit(98);

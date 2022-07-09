@@ -3,16 +3,10 @@
 /**
  * _isupper -> to check upper case
  * @c: integer to be checked
- * Return: 1 for uppercase but 0 otherwise
+ * Return: something but success
  */
+
 int _isupper(int c);
 {
-if (c >= 'A' && c <= 'Z')
-{
-	return (1);
-}
-else
-{
-	return (0);
-}
+	return (c >= 'A' && c <= 'Z');
 }
